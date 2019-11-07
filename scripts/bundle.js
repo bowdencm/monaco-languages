@@ -27,6 +27,7 @@ bundleOne('css/css');
 bundleOne('coffee/coffee');
 bundleOne('cpp/cpp');
 bundleOne('csharp/csharp');
+bundleOne('cypher/cypher');
 bundleOne('dockerfile/dockerfile');
 bundleOne('fsharp/fsharp');
 bundleOne('go/go');

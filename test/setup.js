@@ -35,6 +35,7 @@ define(['require'], function () {
 			'release/dev/csharp/csharp.test',
 			'release/dev/csp/csp.test',
 			'release/dev/css/css.test',
+			'release/dev/cypher/cypher.test',
 			'release/dev/dockerfile/dockerfile.test',
 			'release/dev/fsharp/fsharp.test',
 			'release/dev/go/go.test',
